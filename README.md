@@ -45,6 +45,8 @@ Gained practical exposure to Internet of Things (IoT) technologies, including sm
 Selected Computational Projects:
 
 - Aerospace Materials Analysis: Python-based visualisations exploring alloy properties and material behaviour.
+  https://github.com/tripathimaarisha/skyrmion-dynamics-visualisation
+  
 - Skyrmion Dynamics: Visualisations of current-driven skyrmion motion, including pinning, creep, flow regimes, and skyrmion Hall trajectories.
 
 
