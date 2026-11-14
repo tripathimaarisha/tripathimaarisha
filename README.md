@@ -48,6 +48,7 @@ Selected Computational Projects:
   https://github.com/tripathimaarisha/skyrmion-dynamics-visualisation
   
 - Skyrmion Dynamics: Visualisations of current-driven skyrmion motion, including pinning, creep, flow regimes, and skyrmion Hall trajectories.
+  https://github.com/tripathimaarisha/skyrmion-dynamics-visualisation
 
 
 Current Interests:
